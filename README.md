@@ -63,6 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
+
 module Basic_gates(
 
 input A,B,
